@@ -35,7 +35,7 @@ Welcome to my Blog and Translator App! This application is designed to provide u
 Clone this repository to your local machine.
 
 ```bash
-git clone [https://github.com/your-repository-url.git](https://github.com/BeloveO/django-blog-translator)
+git clone https://github.com/BeloveO/django-blog-translator
 ```
 
 Navigate to the project directory.
@@ -50,7 +50,7 @@ Create a virtual environment to isolate project dependencies.
 python -m venv env
 ```
 
-> Activate the virtual environment.
+Activate the virtual environment.
 
 - On Windows:
 
