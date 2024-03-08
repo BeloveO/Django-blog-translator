@@ -1,6 +1,6 @@
 # Let's Discuss: A Blog and Translator App
 
-## Welcome to my Blog and Translator App! This application is designed to provide users with a seamless experience for reading blog posts and translating across various languages. Whether you're a language enthusiast, a blogger, or someone who loves exploring content from around the world, this app aims to make language barriers a thing of the past.
+Welcome to my Blog and Translator App! This application is designed to provide users with a seamless experience for reading blog posts and translating across various languages. Whether you're a language enthusiast, a blogger, or someone who loves exploring content from around the world, this app aims to make language barriers a thing of the past.
 
 ## Features
 
