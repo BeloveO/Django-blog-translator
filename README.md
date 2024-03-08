@@ -28,54 +28,70 @@ Welcome to my Blog and Translator App! This application is designed to provide u
 - Django Rest Framework (DRF): Powerful toolkit for building Web APIs in Django.
 - Version Control: Git, GitHub
 
-
 ## Installation
 
-### To run the application locally, follow these steps:
+### To run the application locally, follow these steps
 
 Clone this repository to your local machine.
 bash
 git clone [https://github.com/your-repository-url.git](https://github.com/BeloveO/django-blog-translator)
 Navigate to the project directory.
+
 ```bash
 Copy code
 cd django-blog-translator-app
 ```
+
 Create a virtual environment to isolate project dependencies.
+
 ```bash
 python -m venv env
 ```
+
 > Activate the virtual environment.
--  On Windows:
+
+- On Windows:
+
 ```bash
 venv\Scripts\activate
 ```
--  On macOS and Linux:
-```bash
 
+- On macOS and Linux:
+
+```bash
 source venv/bin/activate
 ```
+
 Install dependencies using pip.
+
 ```bash
 pip install -r requirements.txt
 ```
+
 Set up environment variables.
 Create a .env file in the root directory.
 Define the necessary environment variables such as database settings.
 Apply migrations to create database tables.
+
 ```bash
 python manage.py makemigrations
 python manage.py migrate
 ```
+
 Create a superuser to access the admin interface.
+
 ```bash
 python manage.py createsuperuser
 ```
+
 Start the development server.
+
 ```bash
 python manage.py runserver
 ```
-Open your web browser and navigate to http://localhost:8000 to access the application.
+
+Open your web browser and navigate to <http://localhost:8000> to access the application.
+
 ## Contributing
 
 I welcome contributions from the community to improve this Django Blog and Translator App. If you'd like to contribute, please follow these guidelines:
@@ -88,14 +104,12 @@ I welcome contributions from the community to improve this Django Blog and Trans
 ## Contributors
 
 Belove Olusola:
--  Github: [BeloveO](https://github.com/BeloveO)
--  LinkedIn: [BeloveO](www.linkedin.com/in/belove-olusola)
+
+- Github: [BeloveO](https://github.com/BeloveO)
+- LinkedIn: [BeloveO](www.linkedin.com/in/belove-olusola)
 
 ## Feedback
 
-I value your feedback! If you have any questions, suggestions, or issues regarding our Django Blog and Translator App, please don't hesitate to contact us at beloveolusola@gmail.com.
+I value your feedback! If you have any questions, suggestions, or issues regarding our Django Blog and Translator App, please don't hesitate to contact us at <beloveolusola@gmail.com>.
 
 Thank you for using our app! Happy blogging and translating!
-
-
-
