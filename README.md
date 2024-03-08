@@ -33,12 +33,14 @@ Welcome to my Blog and Translator App! This application is designed to provide u
 ### To run the application locally, follow these steps
 
 Clone this repository to your local machine.
-bash
+
+```bash
 git clone [https://github.com/your-repository-url.git](https://github.com/BeloveO/django-blog-translator)
+```
+
 Navigate to the project directory.
 
 ```bash
-Copy code
 cd django-blog-translator-app
 ```
 
